@@ -1,4 +1,0 @@
-nb to bin
-fusion bin
-separation bin
-
